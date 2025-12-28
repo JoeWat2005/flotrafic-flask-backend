@@ -19,4 +19,3 @@ def summarise_enquiry(message: str) -> str:
     )
 
     return response.choices[0].message.content.strip()
-
