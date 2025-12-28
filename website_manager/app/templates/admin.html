@@ -1,0 +1,8 @@
+<h1>Enquiries</h1>
+<ul>
+  {% for e in enquiries %}
+    <li>
+      <strong>{{ e.name }}</strong>: {{ e.ai_summary }}
+    </li>
+  {% endfor %}
+</ul>
