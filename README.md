@@ -9,4 +9,4 @@ It has been **superseded by a FastAPI-based re-architecture**, which introduces:
 - automated notifications
 
 ➡️ **The active backend is maintained here:**  
-<LINK TO NEW REPO>
+https://github.com/JoeWat2005/flotrafic-fastapi-backend
