@@ -1,3 +1,6 @@
+> [!WARNING]
+> **Deprecated: no longer maintained.** Last updated in January 2026; kept for reference.
+
 # Flotrafic Flask backend (legacy)
 
 The original Flask backend for Flotrafic: a small API that receives website enquiries, summarises them with OpenAI and emails them to the business.
